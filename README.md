@@ -55,7 +55,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![Streak Stats](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Streak Stats](https://streak-stats.demolab.com?user=Mohammadazarudeen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 

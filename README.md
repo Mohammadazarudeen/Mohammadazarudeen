@@ -41,7 +41,7 @@
 > Full-stack app with admin panel, Cloudinary image upload, and checkout system.  
 **Stack:** React, Node.js, Express, PostgreSQL  
 
-💬 **[Real-time Chat App](https://github.com/yourusername/chat-app)**  
+💬 **[Real-time Chat App](https://github.com/Mohammadazarudeen/Chat_app)**  
 > Simple chat application using WebSocket for real-time communication.  
 **Stack:** React, Node.js, Express, Socket.io  
 

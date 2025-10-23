@@ -37,9 +37,9 @@
 
 ### 🚀 Featured Projects  
 
-🛍️ **[E-Commerce PERN App](https://github.com/yourusername/pern-ecommerce)**  
-> Full-stack app with admin panel, Cloudinary image upload, and checkout system.  
-**Stack:** React, Node.js, Express, PostgreSQL  
+🛍️ **[Animated Mojito app](https://github.com/Mohammadazarudeen/Mojito_Website)**  
+>Frontend website showing animating skill using GSAP.  
+**Stack:** React, GSAP 
 
 💬 **[Real-time Chat App](https://github.com/Mohammadazarudeen/Chat_app)**  
 > Simple chat application using WebSocket for real-time communication.  
